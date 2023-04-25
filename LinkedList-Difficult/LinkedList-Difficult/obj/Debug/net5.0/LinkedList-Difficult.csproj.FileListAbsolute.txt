@@ -1,0 +1,16 @@
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\bin\Debug\net5.0\LinkedList-Difficult.exe
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\bin\Debug\net5.0\LinkedList-Difficult.deps.json
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\bin\Debug\net5.0\LinkedList-Difficult.runtimeconfig.json
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\bin\Debug\net5.0\LinkedList-Difficult.runtimeconfig.dev.json
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\bin\Debug\net5.0\LinkedList-Difficult.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\bin\Debug\net5.0\ref\LinkedList-Difficult.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\bin\Debug\net5.0\LinkedList-Difficult.pdb
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\obj\Debug\net5.0\LinkedList-Difficult.csproj.AssemblyReference.cache
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\obj\Debug\net5.0\LinkedList-Difficult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\obj\Debug\net5.0\LinkedList-Difficult.AssemblyInfoInputs.cache
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\obj\Debug\net5.0\LinkedList-Difficult.AssemblyInfo.cs
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\obj\Debug\net5.0\LinkedList-Difficult.csproj.CoreCompileInputs.cache
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\obj\Debug\net5.0\LinkedList-Difficult.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\obj\Debug\net5.0\ref\LinkedList-Difficult.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\obj\Debug\net5.0\LinkedList-Difficult.pdb
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode\LinkedList-Difficult\LinkedList-Difficult\obj\Debug\net5.0\LinkedList-Difficult.genruntimeconfig.cache
