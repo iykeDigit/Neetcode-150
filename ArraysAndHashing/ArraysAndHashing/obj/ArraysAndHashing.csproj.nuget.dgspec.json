@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IKECHUKWU\\Desktop\\FANG Prep\\Neetcode-150\\LinkedList-Difficult\\LinkedList-Difficult\\LinkedList-Difficult.csproj": {}
+    "C:\\Users\\IKECHUKWU\\Desktop\\FANG Prep\\Neetcode-150\\ArraysAndHashing\\ArraysAndHashing\\ArraysAndHashing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IKECHUKWU\\Desktop\\FANG Prep\\Neetcode-150\\LinkedList-Difficult\\LinkedList-Difficult\\LinkedList-Difficult.csproj": {
+    "C:\\Users\\IKECHUKWU\\Desktop\\FANG Prep\\Neetcode-150\\ArraysAndHashing\\ArraysAndHashing\\ArraysAndHashing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IKECHUKWU\\Desktop\\FANG Prep\\Neetcode-150\\LinkedList-Difficult\\LinkedList-Difficult\\LinkedList-Difficult.csproj",
-        "projectName": "LinkedList-Difficult",
-        "projectPath": "C:\\Users\\IKECHUKWU\\Desktop\\FANG Prep\\Neetcode-150\\LinkedList-Difficult\\LinkedList-Difficult\\LinkedList-Difficult.csproj",
+        "projectUniqueName": "C:\\Users\\IKECHUKWU\\Desktop\\FANG Prep\\Neetcode-150\\ArraysAndHashing\\ArraysAndHashing\\ArraysAndHashing.csproj",
+        "projectName": "ArraysAndHashing",
+        "projectPath": "C:\\Users\\IKECHUKWU\\Desktop\\FANG Prep\\Neetcode-150\\ArraysAndHashing\\ArraysAndHashing\\ArraysAndHashing.csproj",
         "packagesPath": "C:\\Users\\IKECHUKWU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IKECHUKWU\\Desktop\\FANG Prep\\Neetcode-150\\LinkedList-Difficult\\LinkedList-Difficult\\obj\\",
+        "outputPath": "C:\\Users\\IKECHUKWU\\Desktop\\FANG Prep\\Neetcode-150\\ArraysAndHashing\\ArraysAndHashing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndHashing", "ArraysAndHashing\ArraysAndHashing.csproj", "{490E3FD0-2859-4F8B-8578-A04F56444B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490E3FD0-2859-4F8B-8578-A04F56444B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490E3FD0-2859-4F8B-8578-A04F56444B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490E3FD0-2859-4F8B-8578-A04F56444B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490E3FD0-2859-4F8B-8578-A04F56444B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CFEFE1D-A9B2-478F-A00F-0A496018E33F}
+	EndGlobalSection
+EndGlobal
