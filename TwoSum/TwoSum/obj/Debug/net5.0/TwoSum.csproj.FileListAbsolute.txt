@@ -1,0 +1,16 @@
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.exe
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.deps.json
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.runtimeconfig.json
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.runtimeconfig.dev.json
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\bin\Debug\net5.0\ref\TwoSum.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\bin\Debug\net5.0\TwoSum.pdb
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.csproj.AssemblyReference.cache
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfoInputs.cache
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfo.cs
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\obj\Debug\net5.0\ref\TwoSum.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.pdb
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\TwoSum\TwoSum\obj\Debug\net5.0\TwoSum.genruntimeconfig.cache

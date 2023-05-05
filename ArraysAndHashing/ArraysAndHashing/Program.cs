@@ -47,11 +47,8 @@ namespace ArraysAndHashing
                     }
                     max = Math.Max(max, count);
                 }
-                
             }
             return max;
-
-
         }
 
 
