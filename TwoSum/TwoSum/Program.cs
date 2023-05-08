@@ -13,16 +13,23 @@ namespace TwoSum
             Console.WriteLine("Hello World!");
         }
 
+        /// <summary>
+        /// Time: O(n)
+        /// Space: Constant
+        /// </summary>
+        /// <param name="height"></param>
+        /// <returns></returns>
         public static  int Trap(int[] height)
         {
             var left = 0;
             var right = height.Length - 1;
+            var res = 0;
             var leftMax = height[left];
             var rightMax = height[right];
-            var res = 0;
-            while (left < right)
+
+            while(left < right)
             {
-                if (leftMax < rightMax)
+                if(leftMax < rightMax)
                 {
                     left++;
                     leftMax = Math.Max(leftMax, height[left]);
