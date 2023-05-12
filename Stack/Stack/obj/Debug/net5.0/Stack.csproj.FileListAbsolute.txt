@@ -1,0 +1,16 @@
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\bin\Debug\net5.0\Stack.exe
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\bin\Debug\net5.0\Stack.deps.json
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\bin\Debug\net5.0\Stack.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\bin\Debug\net5.0\ref\Stack.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\bin\Debug\net5.0\Stack.pdb
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\obj\Debug\net5.0\Stack.csproj.AssemblyReference.cache
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\obj\Debug\net5.0\Stack.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\obj\Debug\net5.0\ref\Stack.dll
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\obj\Debug\net5.0\Stack.pdb
+C:\Users\IKECHUKWU\Desktop\FANG Prep\Neetcode-150\Stack\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache
